@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/calendarFragment"
+        android:title=""
+        android:icon="@drawable/ic_baseline_calendar_month_24"
+        />
+    <item
+        android:id="@+id/dayFragment"
+        android:title=""
+        android:icon="@drawable/ic_baseline_calendar_today_24"/>
+    <item
+        android:id="@+id/accountFragment"
+        android:title=""
+        android:icon="@drawable/ic_baseline_account_box_24"/>
+</menu>
